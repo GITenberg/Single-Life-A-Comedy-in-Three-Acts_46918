@@ -1,10 +1,16 @@
 _repo: Single-Life-A-Comedy-in-Three-Acts_46918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46918-h/images/cover.jpg
 creator:
   author:
     agent_name: Buckstone, John Baldwin
     gutenberg_agent_id: '43625'
     url: http://www.gutenberg.org/2009/agents/43625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46918#Single-Life-A-Comedy-in-Three-Acts
 gutenberg_issued: '2014-09-21'
 gutenberg_type: Text
 identifiers:
